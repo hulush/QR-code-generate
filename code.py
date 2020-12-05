@@ -1,6 +1,6 @@
 import qrcode
 
-input_data = "https://github.com/hulush/QR-code-generate/new/main"
+input_data = "https://github.com/hulush/QR-code-generate"
 
 qr = qrcode.QRCode(
         version=1,
